@@ -46,8 +46,3 @@ Installation
      D	Decrease ki (integral gain)
      Q	Increase kd (derivative gain)
      E	Decrease kd (derivative gain)
-
-## Notes
-	   •	The mass bounces if it reaches the ground
-	   •	The target position is visualized as a yellow line
-	   •	Adjusting kp, ki, and kd affects how the mass moves toward the target
