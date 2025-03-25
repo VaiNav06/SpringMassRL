@@ -13,8 +13,8 @@ This project simulates a mass-spring-damper system controlled by a PID controlle
 Installation
 	1.	Clone the repository:
 
-    git clone https://github.com/your-username/mass-spring-damper.git
-    cd mass-spring-damper
+    git clone https://github.com/VaiNav06/SpringMassRL
+    cd SpringMassRL
 
 
   2.	Install dependencies:
@@ -24,12 +24,12 @@ Installation
 
   3.	Run the simulation:
 
-     python mass_spring_damper.py
+     python BlockSpringSystem.py
 
 
 
 ## How It Works
-	   •	The system follows a mass-spring-damper model:
+	   •	The system follows a mass-spring-damper model
 	   •	The mass moves based on spring and damping forces
 	   •	A PID controller applies a force to reach the target position
 	   •	The simulation runs at 60 FPS
